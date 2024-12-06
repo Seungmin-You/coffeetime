@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coffeetime/static/css/main.e6c13ad2.css",
+    "main.js": "/coffeetime/static/js/main.da2afcc9.js",
+    "static/js/453.ec6e9406.chunk.js": "/coffeetime/static/js/453.ec6e9406.chunk.js",
+    "index.html": "/coffeetime/index.html",
+    "main.e6c13ad2.css.map": "/coffeetime/static/css/main.e6c13ad2.css.map",
+    "main.da2afcc9.js.map": "/coffeetime/static/js/main.da2afcc9.js.map",
+    "453.ec6e9406.chunk.js.map": "/coffeetime/static/js/453.ec6e9406.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.da2afcc9.js"
+  ]
+}
