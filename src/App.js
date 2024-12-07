@@ -32,7 +32,7 @@ function App() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if (!isNumber(inputValue) || inputValue.length < 2) {
+        if (!isNumber(inputValue)) {
             alert("유효한 대기표 번호를 입력하세요.");
             return;
         }
